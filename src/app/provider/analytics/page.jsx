@@ -195,7 +195,7 @@ export default function ProviderAnalyticsPage() {
           <div className="lg:col-span-4 bg-white rounded-3xl border p-6 shadow-xs space-y-4" style={{ borderColor: "var(--fw-border)" }}>
             <div>
               <h3 className="font-black text-base text-[#163A2A] flex items-center gap-2">
-                <PieIcon className="w-4 h-4 text-[#245C43]" />
+               <PieChartIcon className="w-4 h-4 text-[#245C43]" />
                 Surplus by Category
               </h3>
               <p className="text-xs text-gray-500">
